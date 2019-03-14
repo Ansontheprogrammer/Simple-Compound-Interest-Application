@@ -3,6 +3,7 @@ This is a simple compound interest app that with a very friendly interface :-).
 
 # Instructions
 To use this application the simplest method would be to just run the compound-interest.exe file.
+
 Alternatively you could run npm start.
 
 # Functionality
