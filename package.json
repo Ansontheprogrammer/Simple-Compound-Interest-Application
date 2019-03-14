@@ -1,0 +1,24 @@
+{
+  "name": "compound-interest",
+  "version": "1.0.0",
+  "description": "Simple application to calculate compound interest",
+  "main": "index.js",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.3",
+    "fs": "^0.0.1-security",
+    "mocha": "^5.2.0",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc && mocha --recursive dist/test --exit", 
+    "start": "tsc && cd dist && node index.js"  
+  },
+  "keywords": [
+    "simple",
+    "compound",
+    "interest"
+  ],
+  "author": "Anson Ervin",
+  "license": "MIT"
+}
