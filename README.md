@@ -4,7 +4,9 @@ This is a simple compound interest app that with a very friendly interface :-).
 # Instructions
 To use this application the simplest method would be to just run the compound-interest.exe file.
 
-Alternatively you could run npm start.
+From command line 
+
+```npm start```
 
 # Functionality
 This application will allow one to calculate the compound interest of any investment value. One will also be able to store 
