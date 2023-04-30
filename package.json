@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/readline-sync": "^1.4.3",
     "fs": "^0.0.1-security",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "readline-sync": "^1.4.9"
   },
   "devDependencies": {},
